@@ -7,4 +7,4 @@ Parses old date types to Zeticon EDTF type
 python3 convert_edtf.py inputFile ... [--delimiter=","]
 ```
 ### Output:
-csv-file with converted_date column added
+csv-file(s) with converted_date column added
